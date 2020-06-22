@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-02-02
+Pega-Codeset-Version: 06-01-01
+ArtifactName: CT
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2020-Jun-22 00:00:00
+PRPC-Engine: 8.2.1 PRPC-8.2.1-225 ()
+Operator: ashishmania@gmail.com
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: CT_010101_20200622T204805_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2020-Jun-22 16:48:11
+Pega-Codeset-Name: Customer
+Instance-Count: 705
+
+Name: FileMetadata
+
