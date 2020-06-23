@@ -32,5 +32,7 @@ CovidScan.ai is developed to be a secured AI app intergrated with Pega platform 
 
 3. Deploy SA.html and CT.html on apache server.
 
+4. Download chest X-ray images from "sample_xray_images" folder and upload to the application to test yourself.
+
 
 
